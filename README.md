@@ -9,9 +9,8 @@ One can then run a Jupyter server using `pipenv run jupyter notebook`, and open 
 
 To test the artistic effects, use the `Restart & Run All` button from the `Kernel` menu inside the Notebook. At the end of the Notebook are some interactions to modify and test the artistic effects.
 
----
+
 ## Examples
----
 
 Here are some examples of the three implemented effects.
 
