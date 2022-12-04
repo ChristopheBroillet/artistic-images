@@ -10,6 +10,8 @@ matplotlib = "*"
 pillow = "*"
 scikit-learn = "*"
 tk = "*"
+ipywidgets = "*"
+jupyter = "*"
 
 [dev-packages]
 
